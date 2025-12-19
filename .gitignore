@@ -1,0 +1,30 @@
+# Virtual environments
+venv/
+venv311/
+venv310
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Model artifacts (optional – comment out if you want to keep model)
+# *.pkl
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
